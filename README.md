@@ -1,4 +1,4 @@
-![Gargantua of Interstellar in pixelart. Design with IA (ComfyUI)]<img width="2032" height="856" alt="Image" src="https://github.com/user-attachments/assets/4d46789c-69e8-48e8-a003-c21e0e2b0536" />
+<img width="2032" height="856" alt="Image" src="https://github.com/user-attachments/assets/4d46789c-69e8-48e8-a003-c21e0e2b0536" />
 
 # Rodriandgo
 
