@@ -1,4 +1,6 @@
-## Hi there 👋
+![Gargantua of Interstellar in pixelart. Design with IA (ComfyUI)]("C:\Users\rodri\Desktop\Curso IA generativa\Imagenes de IA\2loras_test__00055_.png")
+
+# Rodriandgo
 
 <!--
 **Rodriandgo1/Rodriandgo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
