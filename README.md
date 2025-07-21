@@ -1,6 +1,9 @@
 <img width="2032" height="856" alt="Image" src="https://github.com/user-attachments/assets/4d46789c-69e8-48e8-a003-c21e0e2b0536" />
 
-# Rodriandgo
+# <img width="32" height="32" alt="Image" src="https://github.com/user-attachments/assets/d9fef7bc-6be2-4d9b-bde1-f6fafc2c4a54" /> **Rodriandgo** :stuck_out_tongue_winking_eye:
+
+> [!IMPORTANT]
+> An astronomy passionet.
 
 <!--
 **Rodriandgo1/Rodriandgo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+2032 856
 -->
